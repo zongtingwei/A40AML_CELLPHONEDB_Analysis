@@ -25,7 +25,9 @@ python make_cpdb_meta_from_h5ad.py \
   --out /root/autodl-tmp/BGI/STOmics/cpdb_inputs/meta_A40.txt
 ```
 download the MGI mouse and human homologs
-![演示图](images/demo.png)
+![step1](images/step1.png)
+![step2](images/step2.png)
+![step3](images/step3.png)
 
 map mouse to human in h5ad file
 ```bash
