@@ -70,7 +70,7 @@ python run_cpdb_stat.py \
   --threshold 0.01 \
   --threads 64 \
   --score_interactions \
-  --microenvs /root/autodl-tmp/BGI/STOmics/cpdb_inputs/microenvs_A40.txt
+  --microenvs .../cpdb_inputs/microenvs_A40.txt
 ```
 
 
